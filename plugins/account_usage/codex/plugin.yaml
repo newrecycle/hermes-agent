@@ -1,0 +1,5 @@
+name: codex-usage
+version: 1.0.0
+description: "OpenAI Codex / ChatGPT subscription usage slash-command backend."
+author: newrecycle
+kind: backend
